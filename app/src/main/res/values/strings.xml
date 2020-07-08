@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PTA Admin App</string>
+
+    <string-array name="Entry_Fee">
+
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+
+
+    </string-array>
+</resources>

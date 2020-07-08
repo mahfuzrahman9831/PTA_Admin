@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171187678693",
+    "firebase_url": "https://adminpta-6028d.firebaseio.com",
+    "project_id": "adminpta-6028d",
+    "storage_bucket": "adminpta-6028d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171187678693:android:6deee5b45e8bd12a8e130c",
+        "android_client_info": {
+          "package_name": "com.example.ptaadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171187678693-5j8tn7hmpfk8gt4f61qe43n9ql5jldk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJAWISZTFSGp9_l15oEaE6wpxJX1G3NMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171187678693-5j8tn7hmpfk8gt4f61qe43n9ql5jldk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
